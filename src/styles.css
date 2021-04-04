@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background: url("https://chessmatenok.ru/wp-content/uploads/2017/07/shahmatnoe-pole.jpg")
+    no-repeat;
+}
+img {
+  width: 80px;
+  height: 75px;
+}
